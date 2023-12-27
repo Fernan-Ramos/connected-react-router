@@ -2,7 +2,5 @@
 *.log
 *.swp
 node_modules
-esm
-umd
 .idea
 dist
